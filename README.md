@@ -1,1 +1,2 @@
-Space_meteor
+# Space_meteor
+Jeu d'évitement d'astéroïdes.
